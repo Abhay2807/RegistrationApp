@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77570384564",
+    "project_id": "projectmanager-bad61",
+    "storage_bucket": "projectmanager-bad61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77570384564:android:c7f1994ae5ca9d4d746de1",
+        "android_client_info": {
+          "package_name": "com.example.usermanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77570384564-4jcg2ivdpusjoqob04tu00btiuueaeng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKDw_MxDfAaP7qS_WF9sdGgjPUUuG1Vtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77570384564-4jcg2ivdpusjoqob04tu00btiuueaeng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
